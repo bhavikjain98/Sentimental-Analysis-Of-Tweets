@@ -1,4 +1,4 @@
-# Sentimental-Analysis-Of-Tweets
+# Sentimental-Analysis-Of-Twitter-Tweets
 
 1. Tweets from the pre-election period (March-May) were collected from the twitter archive. 
     The collected tweets were classified into two categories, Hate or Not, for subtask A. 
